@@ -1,0 +1,9 @@
+[all]
+3.87.37.83 ansible_user=ubuntu
+
+[all:vars]
+user_name= "admin"
+user_shell= "/bin/bash"
+user_id= "1041"
+group_name= "admin"
+group_id= "1978"
